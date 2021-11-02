@@ -31,7 +31,7 @@ You can provide command line arguments to make to control which files should be 
 
 اگر تازه وارد هستید یا به دنبال یک معرفی کلی هستید, چند بخش اول هر فصل را بخوانید , پرش از بخش های بعدی.در هر فصل، چند بخش اول حاوی اطلاعات مقدماتی یا کلی و بخش های بعدی حاوی اطلاعات تخصصی یا فنی است.استثناء فصل دوم، مقدمه ای بر Makefiles است که همه آن مقدماتی است.
 
-If you are familiar with other make programs, see Features of GNU make, which lists the enhancements GNU make has, and Incompatibilities and Missing Features, which explains the few things GNU make lacks that others have.
+اگر با سایر برنامه های make آشنا هستید، به ویژگی های ساخت گنو مراجعه کنید , که پیشرفت‌های گنو و ناسازگاری‌ها و ویژگی‌های از دست رفته را فهرست می‌کند که موارد معدودی را کهGNU make فاقد آن‌هایی است که دیگران دارند را توضیح می‌دهد
 
 For a quick summary, see Options Summary, Quick Reference, and Special Targets.
 
