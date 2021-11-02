@@ -26,8 +26,8 @@
 
 make
 
-suffices to perform all necessary recompilations. The make program uses the makefile data base and the last-modification times of the files to decide which of the files need to be updated. For each of those files, it issues the recipes recorded in the data base.
 
+کفایت کردن برای انجام دادن همه ی کامپایل های دوباره ضروری. برنامه میک استفاده میکند اطلاعات پایه فایل میک و دفعات اخرین تغیییرات فایلها  را برای تصمیم گیری اینکه کدام فایلها نیاز به به روز رسانی دارند. برای هر کدام از ان فایلها دستورالعمل های ثبت شده در دیتابیس را صادر میکند.
 You can provide command line arguments to make to control which files should be recompiled, or how. See How to Run make.
 
 Next: Bugs, Previous: Preparing, Up: Overview   [Contents][Index]
