@@ -17,10 +17,10 @@
 بعدی :خواندن     قبلی:بررسی اجمالی   بالا:بررسی اجمالی 
 
 آماده سازی 
-
+هل
 آماده سازی و اجرای میک
-To prepare to use make, you must write a file called the makefile that describes the relationships among files in your program and provides commands for updating each file. In a program, typically, the executable file is updated from object files, which are in turn made by compiling source files.
 
+برای آماده سازی برای استفاده میک شما باید یک فایل بنویسید که میک فابل نامیده میشود و توصیف میکند ارتباط میان فایلها در برنامه ی شما و فراهم میکند دستوراتی برای به روز رسانی هر فایل. در یک برنامه معمولا فایل قابل اجرا به روز رسانی میشود از آبجکت فایل ها که در چرخش ساخته شده اند با کامپایل شدن سورس فایلها
 Once a suitable makefile exists, each time you change some source files, this simple shell command:
 
 make
