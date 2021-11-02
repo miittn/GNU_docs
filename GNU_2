@@ -1,14 +1,14 @@
 2 An Introduction to Makefiles
 
-You need a file called a makefile to tell make what to do. Most often, the makefile tells make how to compile and link a program.
+شما به فایلی به نام makefile نیاز دارید تا بگویید که چه کاری انجام دهید. اغلب، makefile به make می گوید که چگونه یک برنامه را کامپایل و پیوند دهد.
 
 In this chapter, we will discuss a simple makefile that describes how to compile and link a text editor which consists of eight C source files and three header files. The makefile can also tell make how to run miscellaneous commands when explicitly asked (for example, to remove certain files as a clean-up operation). To see a more complex example of a makefile, see Complex Makefile.
 
-When make recompiles the editor, each changed C source file must be recompiled. If a header file has changed, each C source file that includes the header file must be recompiled to be safe. Each compilation produces an object file corresponding to the source file. Finally, if any source file has been recompiled, all the object files, whether newly made or saved from previous compilations, must be linked together to produce the new executable editor.
+هنگامی که make ویرایشگر را مجددا کامپایل می کند، هر فایل منبع C تغییر یافته باید دوباره کامپایل شود. اگر فایل هدر تغییر کرده باشد، هر فایل منبع C که شامل فایل هدر است باید دوباره کامپایل شود تا ایمن باشد. هر کامپایل یک فایل شی متناظر با فایل منبع تولید می کند. در نهایت، اگر هر فایل منبعی دوباره کامپایل شده باشد، همه فایل‌های شی، چه جدیدا ساخته شده یا ذخیره شده از کامپایل‌های قبلی، باید به یکدیگر پیوند داده شوند تا ویرایشگر اجرایی جدید تولید شود.
 • Rule Introduction	  	What a rule looks like.
-• Simple Makefile	  	A simple makefile.
+•  میک فایل ساده	  	یک میک فایل ساده.
 • How Make Works	  	How make processes this makefile.
-• Variables Simplify	  	Variables make makefiles simpler.
+• Variablesمیک فایل را ساده میکند
 • make Deduces	  	Letting make deduce the recipes.
-• Combine By Prerequisite	  	Another style of makefile.
+• ترکیب بر اساس پیش نیاز سبک دیگری از میک فایل.
 • Cleanup	  	Rules for cleaning the directory. 
