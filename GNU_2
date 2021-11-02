@@ -6,7 +6,7 @@ In this chapter, we will discuss a simple makefile that describes how to compile
 
 هنگامی که make ویرایشگر را مجددا کامپایل می کند، هر فایل منبع C تغییر یافته باید دوباره کامپایل شود. اگر فایل هدر تغییر کرده باشد، هر فایل منبع C که شامل فایل هدر است باید دوباره کامپایل شود تا ایمن باشد. هر کامپایل یک فایل شی متناظر با فایل منبع تولید می کند. در نهایت، اگر هر فایل منبعی دوباره کامپایل شده باشد، همه فایل‌های شی، چه جدیدا ساخته شده یا ذخیره شده از کامپایل‌های قبلی، باید به یکدیگر پیوند داده شوند تا ویرایشگر اجرایی جدید تولید شود.
 • Rule Introduction	  	What a rule looks like.
-•  میک فایل ساده	  	یک میک فایل ساده.
+•  میک فایل ساده	  	.
 • How Make Works	  	How make processes this makefile.
 • Variablesمیک فایل را ساده میکند
 • make Deduces	  	Letting make deduce the recipes.
