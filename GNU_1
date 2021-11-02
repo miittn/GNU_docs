@@ -4,7 +4,9 @@
 سودمندی میک به صورت تعیین میکند کدام قسمت از یک برنامه بزرگ احتیاج به کامپایل دوباره دارد و دستوراتی را برای کامپایل دوباره انها صادر میکند.این به صورت دستی توصیف میکند گنو میک را که تحمیل شده است بوسیله ی ریچارد استالمن و رولند مکگرس.توسعه ی گنو میک از ورژن 3.76 بوسیله ی پاول اسمیت رسیدگی شده است.
 
 گنو میک با بخش 6.2 از  IEEE Standard 1003.2-1992 (POSIX.2)  وفق داده شده است.
-Our examples show C programs, since they are most common, but you can use make with any programming language whose compiler can be run with a shell command. Indeed, make is not limited to programs. You can use it to describe any task where some files must be updated automatically from others whenever the others change.
+
+مثال های ما برنامه های زبان سی را نشان میدهد. از زمانی که بیشتر رایج بوده اند اما شما میتوانید از میک با هر زبان برنامه نویسی که کامپایلر میتواند با شل ران شود استفاده کنید.
+شما میتوانید از این برای توصیف هر وظیفه ای که بعضی فایلها باید بصورت اتوماتیک به روز رسانی شوند از دیگرفایلها  از زمانی که دیگر فایلها تعییر میکنند. 
 • Preparing	  	Preparing and running make.
 • Reading	  	On reading this text.
 • Bugs	  	Problems and bugs.
