@@ -33,12 +33,13 @@ You can provide command line arguments to make to control which files should be 
 
 اگر با سایر برنامه های make آشنا هستید، به ویژگی های ساخت گنو مراجعه کنید , که پیشرفت‌های گنو و ناسازگاری‌ها و ویژگی‌های از دست رفته را فهرست می‌کند که موارد معدودی را کهGNU make فاقد آن‌هایی است که دیگران دارند را توضیح می‌دهد
 
-For a quick summary, see Options Summary, Quick Reference, and Special Targets.
+برای یک خلاصه سریع، به خلاصه گزینه ها، مرجع سریع و اهداف ویژه مراجعه کنید.
 
-Previous: Reading, Up: Overview   [Contents][Index]
-1.2 Problems and Bugs
-
-If you have problems with GNU make or think you’ve found a bug, please report it to the developers; we cannot promise to do anything but we might well want to fix it.
+قبلی: خواندن
+ بالا: بررسی اجمالی [محتوا] [فهرست]
+ 
+1.2 مشکلات و باگ ها
+اگر با گنو مشکل دارید یا فکر می کنید باگ پیدا کرده اید , لطفا آن را به توسعه دهندگان گزارش دهید ما نمی توانیم قول بدهیم که کاری انجام دهیم، اما ممکن است بخواهیم آن را برطرف کنیم.
 
 Before reporting a bug, make sure you’ve actually found a real bug. Carefully reread the documentation and see if it really says you can do what you’re trying to do. If it’s not clear whether you should be able to do something or not, report that too; it’s a bug in the documentation!
 
