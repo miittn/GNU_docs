@@ -37,7 +37,7 @@ make
 
 
 
-If you are familiar with other make programs, see Features of GNU make, which lists the enhancements GNU make has, and Incompatibilities and Missing Features, which explains the few things GNU make lacks that others have.
+اگر با سایر برنامه‌های ساخت آشنا هستید، به ویژگی‌های ساخت گنو، که پیشرفت‌های ایجاد شده گنو را فهرست می‌کند، و ناسازگاری‌ها و ویژگی‌های گمشده را ببینید، که موارد معدود کمبودهای گنو را توضیح می‌دهد.
 
 For a quick summary, see Options Summary, Quick Reference, and Special Targets.
 
