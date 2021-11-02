@@ -56,8 +56,10 @@ make
 
     bug-make@gnu.org
 
-or use our Web-based project management tool, at:
+یا از ابزار مدیریت پروژه مبتنی بر وب ما در آدرس زیر استفاده کنید:
 
     http://savannah.gnu.org/projects/make/
 
-In addition to the information above, please be careful to include the version number of make you are using. You can get this information with the command ‘make --version’. Be sure also to include the type of machine and operating system you are using. One way to obtain this information is by looking at the final lines of output from the command ‘make --help’. 
+علاوه بر اطلاعات بالا، لطفاً مراقب باشید که شماره نسخه ساخت مورد استفاده خود را نیز درج کنید. می توانید این اطلاعات را با دستور make --version به دست آورید. حتما نوع ماشین و سیستم عامل مورد استفاده خود را نیز درج کنید. یکی از راه‌های بدست آوردن این اطلاعات، نگاه کردن به خطوط نهایی خروجی از دستور make --help است.
+
+
