@@ -31,9 +31,11 @@ make
 
 شما میتوانید فراهم کنید  استدلال های کامند لاین را برای دست کردن و کنترل کردن اینکه کدام فایلها باید دوباره کامپایل شوند یا چگونه کامپایل شوند. چگونه اجرا کردن میک را ببینید.
 
-1.1 How to Read This Manual
+1.نحوه خواندن این راهنما
 
-If you are new to make, or are looking for a general introduction, read the first few sections of each chapter, skipping the later sections. In each chapter, the first few sections contain introductory or general information and the later sections contain specialized or technical information. The exception is the second chapter, An Introduction to Makefiles, all of which is introductory.
+اگر تازه با make اشنا شدید یا به دنبال یک مقدمه کلی هستید، چند بخش اول هر فصل را بخوانید و از بخش‌های بعدی صرفنظر کنید. در هر فصل، چند بخش اول حاوی اطلاعات مقدماتی یا کلی و بخش های بعدی حاوی اطلاعات تخصصی یا فنی است. استثناء فصل دوم، مقدمه ای بر Makefiles است که همه آن مقدماتی است.
+
+
 
 If you are familiar with other make programs, see Features of GNU make, which lists the enhancements GNU make has, and Incompatibilities and Missing Features, which explains the few things GNU make lacks that others have.
 
