@@ -30,7 +30,7 @@ make
 کفایت کردن برای انجام دادن همه ی کامپایل های دوباره ضروری. برنامه میک استفاده میکند اطلاعات پایه فایل میک و دفعات اخرین تغیییرات فایلها  را برای تصمیم گیری اینکه کدام فایلها نیاز به به روز رسانی دارند. برای هر کدام از ان فایلها دستورالعمل های ثبت شده در دیتابیس را صادر میکند.
 
 شما میتوانید فراهم کنید  استدلال های کامند لاین را برای دست کردن و کنترل کردن اینکه کدام فایلها باید دوباره کامپایل شوند یا چگونه کامپایل شوند. چگونه اجرا کردن میک را ببینید.
-Next: Bugs, Previous: Preparing, Up: Overview   [Contents][Index]
+
 1.1 How to Read This Manual
 
 If you are new to make, or are looking for a general introduction, read the first few sections of each chapter, skipping the later sections. In each chapter, the first few sections contain introductory or general information and the later sections contain specialized or technical information. The exception is the second chapter, An Introduction to Makefiles, all of which is introductory.
