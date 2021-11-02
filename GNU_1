@@ -50,9 +50,9 @@ make
 
 
 
-Before reporting a bug or trying to fix it yourself, try to isolate it to the smallest possible makefile that reproduces the problem. Then send us the makefile and the exact results make gave you, including any error or warning messages. Please don’t paraphrase these messages: it’s best to cut and paste them into your report. When generating this small makefile, be sure to not use any non-free or unusual tools in your recipes: you can almost always emulate what such a tool would do with simple shell commands. Finally, be sure to explain what you expected to occur; this will help us decide whether the problem was really in the documentation.
+قبل از گزارش یک اشکال یا تلاش برای رفع آن، سعی کنید آن را در کوچکترین فایل ممکن که مشکل را بازتولید می کند، جدا کنید. سپس فایل را برای ما بفرستید و نتایج دقیق را برای شما ارسال کنید، از جمله هرگونه خطا یا پیام هشدار. لطفاً این پیام ها را ترجمه نکنید: بهتر است آنها را برش دهید و در گزارش خود جایگذاری کنید. هنگام ایجاد این فایل کوچک، مطمئن شوید که از هیچ ابزار غیر رایگان یا غیرمعمولی در دستور العمل های خود استفاده نکنید: تقریباً همیشه می توانید آنچه را که چنین ابزاری با دستورات پوسته ساده انجام می دهد شبیه سازی کنید. در نهایت، حتماً توضیح دهید که انتظار دارید چه اتفاقی بیفتد. این به ما کمک می کند تا تصمیم بگیریم که آیا مشکل واقعاً در مستندات بوده است یا خیر.
 
-Once you have a precise problem you can report it in one of two ways. Either send electronic mail to:
+هنگامی که یک مشکل دقیق دارید، می توانید آن را به یکی از دو روش گزارش دهید. یا به آدرس زیر ایمیل ارسال کنید:
 
     bug-make@gnu.org
 
