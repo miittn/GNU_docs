@@ -7,10 +7,12 @@
 
 مثال های ما برنامه های زبان سی را نشان میدهد. از زمانی که بیشتر رایج بوده اند اما شما میتوانید از میک با هر زبان برنامه نویسی که کامپایلر میتواند با شل ران شود استفاده کنید.
 شما میتوانید از این برای توصیف هر وظیفه ای که بعضی فایلها باید بصورت اتوماتیک به روز رسانی شوند از دیگرفایلها  از زمانی که دیگر فایلها تعییر میکنند. 
-• Preparing	  	Preparing and running make.
-• Reading	  	On reading this text.
-• Bugs	  	Problems and bugs.
 
+اماده سازی              اماده سازی و اجرای میک.
+
+خواندن                   بر خواندن این متن.
+
+باگ ها                   مشکلات و باگ ها.
 Next: Reading, Previous: Overview, Up: Overview   [Contents][Index]
 Preparing
 Preparing and Running Make
