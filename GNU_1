@@ -41,9 +41,9 @@ You can provide command line arguments to make to control which files should be 
 1.2 مشکلات و باگ ها
 اگر با گنو مشکل دارید یا فکر می کنید باگ پیدا کرده اید , لطفا آن را به توسعه دهندگان گزارش دهید ما نمی توانیم قول بدهیم که کاری انجام دهیم، اما ممکن است بخواهیم آن را برطرف کنیم.
 
-Before reporting a bug, make sure you’ve actually found a real bug. Carefully reread the documentation and see if it really says you can do what you’re trying to do. If it’s not clear whether you should be able to do something or not, report that too; it’s a bug in the documentation!
-
-Before reporting a bug or trying to fix it yourself, try to isolate it to the smallest possible makefile that reproduces the problem. Then send us the makefile and the exact results make gave you, including any error or warning messages. Please don’t paraphrase these messages: it’s best to cut and paste them into your report. When generating this small makefile, be sure to not use any non-free or unusual tools in your recipes: you can almost always emulate what such a tool would do with simple shell commands. Finally, be sure to explain what you expected to occur; this will help us decide whether the problem was really in the documentation.
+قبل از گزارش یک باگ، مطمئن شوید که واقعا یک باگ واقعی پیدا کرده اید.اسناد را با دقت دوباره بخوانید و ببینید آیا واقعاً می‌گوید می‌توانید کاری را که می‌خواهید انجام دهید انجام دهید.اگر مشخص نیست که آیا باید بتوانید کاری را انجام دهید یا نه، آن را نیز گزارش دهید. این یک اشکال در اسناد است!
+قبل از گزارش یک اشکال یا تلاش برای رفع آن، سعی کنید آن را در کوچکترین فایل ممکن که مشکل را بازتولید می کند، جدا کنید. سپس فایل را برای ما بفرستید و نتایج دقیق را برای شما ارسال کنید، از جمله هرگونه خطا یا پیام هشدار. لطفاً این پیام ها را ترجمه نکنید: بهتر است آنها را برش دهید و در گزارش خود جایگذاری کنید.
+ هنگام ایجاد این فایل کوچک، مطمئن شوید که از هیچ ابزار غیر رایگان یا غیرمعمولی در دستور العمل های خود استفاده نکنید: تقریباً همیشه می توانید آنچه را که چنین ابزاری با دستورات پوسته ساده انجام می دهد شبیه سازی کنید. در نهایت، حتماً توضیح دهید که انتظار دارید چه اتفاقی بیفتد. این به ما کمک می کند تا تصمیم بگیریم که آیا مشکل واقعاً در مستندات بوده است یا خیر.
 
 Once you have a precise problem you can report it in one of two ways. Either send electronic mail to:
 
