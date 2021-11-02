@@ -8,7 +8,8 @@ When make recompiles the editor, each changed C source file must be recompiled. 
 
 معرفی نقش یا قانون     یک نقش شبیه چیه
 • Simple Makefile	  	A simple makefile.
-• How Make Works	  	How make processes this makefile.
+
+چگونه میک کار میکنه         چگونه میک پردازش میکنه این میک فایل رو 
 • Variables Simplify	  	Variables make makefiles simpler.
 • make Deduces	  	Letting make deduce the recipes.
 • Combine By Prerequisite	  	Another style of makefile.
