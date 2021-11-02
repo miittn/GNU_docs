@@ -14,4 +14,5 @@ When make recompiles the editor, each changed C source file must be recompiled. 
 
 نتایج میک                  اجازه دادن به استنباط دستور العمل ها!!!
 • Combine By Prerequisite	  	Another style of makefile.
-• Cleanup	  	Rules for cleaning the directory. 
+
+پاک کردن             قانون های برای پاک کردن دایرکتوری
