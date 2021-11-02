@@ -23,7 +23,9 @@ suffices to perform all necessary recompilations. The make program uses the make
 
 You can provide command line arguments to make to control which files should be recompiled, or how. See How to Run make.
 
-Next: Bugs, Previous: Preparing, Up: Overview   [Contents][Index]
+بعدی: اشکالات
+ قبلی: آماده سازی
+  بالا: بررسی اجمالی [محتواها] [فهرست]
 1.1 How to Read This Manual
 
 If you are new to make, or are looking for a general introduction, read the first few sections of each chapter, skipping the later sections. In each chapter, the first few sections contain introductory or general information and the later sections contain specialized or technical information. The exception is the second chapter, An Introduction to Makefiles, all of which is introductory.
